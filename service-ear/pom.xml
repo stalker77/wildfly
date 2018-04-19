@@ -16,14 +16,12 @@
 		<dependency>
 			<groupId>ru.dobrokvashinevgeny.research</groupId>
 			<artifactId>service-war</artifactId>
-			<version>1.0</version>
 			<type>war</type>
 		</dependency>
 
 		<dependency>
 			<groupId>ru.dobrokvashinevgeny.research</groupId>
 			<artifactId>service-ejb</artifactId>
-			<version>1.0</version>
 			<type>ejb</type>
 		</dependency>
 	</dependencies>

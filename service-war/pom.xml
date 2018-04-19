@@ -16,13 +16,11 @@
 		<dependency>
 			<groupId>ru.dobrokvashinevgeny.research</groupId>
 			<artifactId>service</artifactId>
-			<version>1.0</version>
 		</dependency>
 
 		<dependency>
 			<groupId>ru.dobrokvashinevgeny.research</groupId>
 			<artifactId>service-ejb-interfaces</artifactId>
-			<version>1.0</version>
 			<scope>provided</scope>
 		</dependency>
 
